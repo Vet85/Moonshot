@@ -11,6 +11,7 @@ import SwiftUI
 struct MoonshotApp: App {
     var body: some Scene {
         WindowGroup {
+            // CHANGE: Initialize any required environment objects or state here
             ContentView()
         }
     }
